@@ -65,7 +65,7 @@ const Contact = () => {
       icon: Github,
       title: "GitHub",
       value: "github.com/ranjanachoudhary",
-      href: "https://github.com/ranjanachoudhary",
+      href: "https://github.com/Ranjana124",
       color: "bg-gray-100 text-gray-800"
     },
     {
@@ -246,7 +246,7 @@ const Contact = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://github.com/ranjanachoudhary"
+                href="https://github.com/Ranjana124"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center w-12 h-12 bg-slate-100 rounded-full text-slate-600 hover:bg-gray-800 hover:text-white transition-all transform hover:scale-110 duration-300 shadow-md hover:shadow-lg"
