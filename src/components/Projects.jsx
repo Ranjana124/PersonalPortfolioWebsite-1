@@ -7,7 +7,7 @@ const projectsData = [
   {
     title: "Lung Cancer Detection Using Machine Learning",
     description: "Advanced machine learning solution leveraging CT scans to identify early signs of malignancy with high accuracy. Utilizes deep learning algorithms for medical image analysis, improving early diagnosis and treatment outcomes.",
-    image: "https://images.unsplash.com/photo-1551601651-2a8555f1a136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    image: "/Lung cancer.jpg",
     tags: ["Machine Learning", "AI", "Python", "TensorFlow", "OpenCV", "Medical Imaging"],
     period: "January 2025",
     category: "AI/ML",
@@ -19,15 +19,15 @@ const projectsData = [
     liveUrl: null
   },
   {
-    title: "Student Result Management System",
-    description: "Comprehensive web-based application for automating semester result administration. Features student detail management, grade tracking, and automated report generation for educational institutions.",
-    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
-    tags: ["PHP", "MySQL", "JavaScript", "CSS"],
-    period: "July 2023 - November 2023",
+    title: "Online Pharmacy Management System",
+    description: "Comprehensive web-based application for managing pharmacy operations. Features include product management, order processing, customer management, and sales reporting, designed to streamline pharmacy workflows and enhance customer service.",
+    image: "/homepage.png",
+    tags: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    period: "March 2025 - June 2025",
     category: "Web Development",
     icon: Database,
-    achievements: ["500+ Students", "Automated Reports", "Admin Dashboard"],
-    teamSize: "2 Members",
+    achievements: ["User Authentication", "Product Management", "Order Tracking","Responsive Design","prescription upload"],
+    teamSize: "solo Project",
     status: "Deployed",
     githubUrl: "https://github.com/Ranjana124/Medplus-Pharmacy-using-reactjs",
     liveUrl: "https://medplus-pharmacy-using-reactjs.vercel.app/"
@@ -35,13 +35,13 @@ const projectsData = [
   {
     title: "Smart Gym Management System",
     description: "Full-stack MERN application featuring user registration, session booking, and fitness tracking. Includes admin dashboard for member management, scheduling, and analytics with real-time updates and secure authentication.",
-    image: "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    image: "/ui.png",
     tags: ["React.js", "Node.js", "MongoDB", "Express.js"],
     period: "Recent",
     category: "Full Stack",
     icon: Code2,
     achievements: ["Real-time Updates", "Payment Integration", "Mobile Responsive"],
-    teamSize: "3 Members",
+    teamSize: "solo Project",
     status: "In Development",
     githubUrl: "https://github.com/Ranjana124/BookMyFit-Gym-Web-Application-",
     liveUrl: "https://bookmyfit-1.onrender.com/"
@@ -49,7 +49,7 @@ const projectsData = [
   {
     title: "Online Catering Management System",
     description: "Real-time catering platform with integrated payment gateway for automating catering services. Features inventory management, billing system, receipt generation, and comprehensive sales reporting for catering businesses.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+    image: "https://www.caterzen.com/hubfs/online-ordering-catering-software-1.png",
     tags: ["Java", "PHP", "MySQL", "CSS"],
     period: "Recent",
     category: "E-commerce",
