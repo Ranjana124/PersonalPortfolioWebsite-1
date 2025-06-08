@@ -12,18 +12,23 @@ const Hero = () => {
   const socialLinks = [
     {
       icon: Mail,
-      href: "mailto:ranjana.choudhary@example.com",
+      href: "mailto:ranjanachoudhary124@gmail.com",
       label: "Email"
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/ranjana-choudhary",
+      href: "https://linkedin.com/in/ranjana-choudhary-522320221",
       label: "LinkedIn"
     },
     {
       icon: Github,
       href: "https://github.com/Ranjana124",
       label: "GitHub"
+    }
+    {
+      icon: Phone,
+      href: "tel:+918660204905",
+      label: "Phone"
     }
   ];
 
@@ -68,7 +73,7 @@ const Hero = () => {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8, delay: 0.4 }}
                 >
-                  Software Developer & DevOps Specialist
+                  Software Developer & Technology Enthusiast
                 </motion.h2>
                 
                 <motion.p 
