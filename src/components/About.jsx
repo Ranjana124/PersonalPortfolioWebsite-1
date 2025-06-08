@@ -56,7 +56,7 @@ const About = () => {
                   className="bg-slate-50 p-4 rounded-lg"
                 >
                   <h4 className="font-semibold text-slate-800 mb-2">Current Focus</h4>
-                  <p className="text-slate-600 text-sm">DevOps & Microservices Architecture</p>
+                  <p className="text-slate-600 text-sm">Full Stack Development</p>
                 </motion.div>
                 <motion.div
                   initial={{ opacity: 0, y: 20 }}
@@ -65,7 +65,7 @@ const About = () => {
                   className="bg-slate-50 p-4 rounded-lg"
                 >
                   <h4 className="font-semibold text-slate-800 mb-2">Specialization</h4>
-                  <p className="text-slate-600 text-sm">Data Analysis & Visualization</p>
+                  <p className="text-slate-600 text-sm">DevOps & Microservices Architecture</p>
                 </motion.div>
                 <motion.div
                   initial={{ opacity: 0, y: 20 }}
