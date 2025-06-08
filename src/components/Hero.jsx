@@ -24,11 +24,6 @@ const Hero = () => {
       icon: Github,
       href: "https://github.com/Ranjana124",
       label: "GitHub"
-    },
-    {
-      icon: Phone,
-      href: "tel:+918660204905",
-      label: "Phone"
     }
   ];
 
